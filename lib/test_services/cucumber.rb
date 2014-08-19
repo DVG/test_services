@@ -1,0 +1,1 @@
+require 'cucumber/table_comparer'
