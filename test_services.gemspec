@@ -6,10 +6,10 @@ require 'test_services/version'
 Gem::Specification.new do |spec|
   spec.name          = "test_services"
   spec.version       = TestServices::VERSION
-  spec.authors       = ["Bradley Temple"]
+  spec.authors       = ["DVG"]
   spec.email         = ["bradley.temple@gmail.com"]
-  spec.summary       = %q{TODO: Service Objects for Integration Tests}\
-  spec.homepage      = ""
+  spec.summary       = %q{Service Objects for Integration Tests}
+  spec.homepage      = "https://github.com/DVG/test_services"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
